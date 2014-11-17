@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-8bit",
+    "files" : [
+        { "displayName" : "8bit-ringtone"          , "fileName" : "8bit_Ringtone.wav" },
+       	{ "displayName" : "8bit-messagetone"       , "fileName" : "8bit_Message.wav" },
+        { "displayName" : "8bit-imtone"            , "fileName" : "8bit_IM.wav" },
+        { "displayName" : "8bit-emailtone"         , "fileName" : "8bit_Email.wav" },
+        { "displayName" : "8bit-calendar-alarm"    , "fileName" : "8bit_Calendar.wav" },
+        { "displayName" : "8bit-clock-alarm"       , "fileName" : "8bit_Clock.wav" }
+    ]
+}

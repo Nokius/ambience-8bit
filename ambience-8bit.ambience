@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-8bit",
+    "displayName"               : "8Bit",
+    "ringerToneFile"            : { "file": "8bit_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "8bit_Message.wav",  "enabled": 1 },
+    "mailToneFile"              : { "file": "8bit_Email.wav",  "enabled": 1 },
+    "internetCallToneFile"      : { "file": "8bit_IM.wav",  "enabled": 1 },
+    "chatToneFile"              : { "file": "8bit_IM.wav",  "enabled": 1 },
+    "calendarToneFile"          : { "file": "8bit_Calendar.wav",  "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "8bit_Clock.wav",  "enabled": 1 },
+    "wallpaper"                 : "ambience-8bit.jpg",
+    "highlightColor"            : "#FFF851",
+    "secondaryHighlightColor"   : "#FFFBA8",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}
